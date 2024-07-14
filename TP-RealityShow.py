@@ -11,7 +11,6 @@
 
 # Trabajo por Gabriel Alfonzo Comision 306
 
-# Inicializar variables
 total_votos = 0
 edad_total = 0
 
